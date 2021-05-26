@@ -1,6 +1,6 @@
 # SOA-T&P-Management
 This is a project developed under the T&P Department of ITER S'O'A University for smooth conductance of all types of Placement related works.
-
+Other than all the managements works all the data stored in the database are in encrypted format which can only be accessed by the key that is known to the user and the key won't be stored in the database so only the user has access to its data.
 <h1>Home Page</h1>
 
 ![home](https://user-images.githubusercontent.com/53336453/119684641-4b0abf00-be62-11eb-846f-b1c0932ec9f8.png)
